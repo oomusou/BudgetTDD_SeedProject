@@ -7,7 +7,9 @@
 ## Version
 
 .NET Core 2.1
+
 MSTest 1.2.1
+
 NSubstitute 3.1
 
 # Introduction
